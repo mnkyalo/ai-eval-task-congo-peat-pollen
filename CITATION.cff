@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this task, please cite it as below."
+title: "Congo peat pollen: a research-grade AI evaluation task in palaeoecology"
+abstract: "A Harbor-format evaluation task in which an AI agent calibrates radiocarbon dates, screens contaminated samples, builds an age-depth model and reconstructs pollen influx for a Congo Basin peat core. Includes a reference solution, hardened verifier and grader-validation harness."
+authors:
+  - family-names: Kyalo-Omamo
+    given-names: Margaret
+    affiliation: Independent Researcher
+    orcid: "https://orcid.org/0000-0001-7864-0487"
+type: software
+license: MIT
+repository-code: "https://github.com/mnkyalo/ai-eval-task-congo-peat-pollen"
+keywords: [AI evaluation, benchmark, scientific computing, radiocarbon, palaeoecology, Congo Basin]
