@@ -6,6 +6,7 @@
 ![format: Harbor](https://img.shields.io/badge/format-Harbor-2b6cb0)
 ![runtime: Docker](https://img.shields.io/badge/runtime-Docker-2496ed)
 ![python 3.11+](https://img.shields.io/badge/python-3.11%2B-3776ab)
+[![DOI](https://zenodo.org/badge/1385078063.svg)](https://doi.org/10.5281/zenodo.23034753)
 
 This repository contains a complete scientific-computing task written in the [Harbor](https://www.harborframework.com/docs/tasks) format, the framework behind Terminal-Bench. An AI agent is dropped into a Docker container holding the full dataset of a peat core from the Cuvette Centrale in the Republic of the Congo. The dataset has 15 AMS radiocarbon dates, 70 counted pollen levels, a sample preparation record and a library of calibration curves. The agent has to turn that into calendar ages, pollen influx and a vegetation history. A separate verifier container then re-derives the answer from sealed data and scores the submission as pass or fail.
 
