@@ -198,4 +198,11 @@ The lesson I took forward is that difficulty has to come from a mechanism that l
 
 - First author, [Kyalo-Omamo et al. 2023, *Freshwater Biology* 68:1894–1916](https://doi.org/10.1111/fwb.14093), on sedaDNA of rotifers and 200 years of climate change in two Kenyan crater lakes
 - GitHub: [@mnkyalo](https://github.com/mnkyalo)
-<!-- LinkedIn: add URL here -->
+
+## 📬 Connect With Me
+
+* **Email:** [mnkyalo22@gmail.com](mailto:mnkyalo22@gmail.com)
+* **Google Scholar:** [Margaret Kyalo-Omamo](https://scholar.google.com/citations?user=xZrmmqwAAAAJ&hl=en)
+* **ORCID:** [0000-0001-7864-0487](https://orcid.org/0000-0001-7864-0487)
+* **LinkedIn:** [margaret-kyalo-n](https://www.linkedin.com/in/margaret-kyalo-n/)
+* **Location:** Kenya
